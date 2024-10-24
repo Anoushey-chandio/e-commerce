@@ -2,7 +2,7 @@ import { SiGoogle, SiFacebook } from 'react-icons/si';
 
 const Signup = () => {
   return (
-    <section className='bg-lime-50 p-4 m-4 mt-28 grid grid-cols-1 md:grid-cols-2 gap-4'>
+    <section className='bg-lime-50 p-4  mt-28 grid grid-cols-1 md:grid-cols-2 gap-4'>
       
       {/* Left Side */}
       <div className='flex flex-col justify-center'>
