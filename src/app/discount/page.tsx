@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 const Discount = () => {
   return (
-    <section>
+    <section className='mt-28'>
       <div className="container mx-auto p-4 m-4 bg-lime-50">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           
