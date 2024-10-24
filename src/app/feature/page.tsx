@@ -2,6 +2,7 @@ import Image from 'next/image';
 
 const Feature = () => {
   return (
+    <section className='mt-28'>
     <div className="container mx-auto p-4">
       <h1 className="text-center text-2xl font-bold mb-4">Our Featured Collections</h1>
       <div className="flex justify-between items-center">
@@ -50,6 +51,7 @@ const Feature = () => {
         </div>
       </div>
     </div>
+    </section>
   );
 };
 
