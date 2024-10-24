@@ -3,7 +3,7 @@ import { FaStar } from 'react-icons/fa'; // Importing FontAwesome star icon
 
 const Feedback = () => {
   return (
-    <section >
+    <section className='mt-28' >
       <div className="flex justify-center m-4 p-4">
         <h1 className="text-black font-bold text-center font-Ag text-3xl">
           What They Said
