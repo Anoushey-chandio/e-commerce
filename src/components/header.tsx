@@ -13,7 +13,7 @@ export default function Header() {
   };
 
   return (
-    <header className="bg-gray-900 text-white p-4">
+    <header className="bg-gray-900 text-white p-4 fixed top-0 left-0 right-0">
       <div className="container mx-auto flex justify-between items-center">
 
         {/* Left Div: Full Menu for Larger Screens */}
