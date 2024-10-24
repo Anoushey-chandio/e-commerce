@@ -21,7 +21,7 @@ const Collection = () => {
               height={496}
               className="m-3 p-3 object-cover"
             />
-            <h2 className="text-center text-2xl text-black font-extralight p-2 m-2">Spring</h2>
+            <h2 className="text-center text-2xl text-black font-semibold p-2 m-2">Spring</h2>
             <button className="bg-slate-100 w-20 p-1 rounded-md m-3 text-2xl font-Ag hover:bg-lime-50">
               More
             </button>
@@ -36,7 +36,7 @@ const Collection = () => {
               height={496}
               className="m-3 p-3 object-cover"
             />
-            <h2 className="text-center text-2xl text-black font-extralight p-2 m-2">Summer</h2>
+            <h2 className="text-center text-2xl text-black font-semibold p-2 m-2">Summer</h2>
             <button className="bg-slate-100 w-20 p-1 rounded-md m-3 text-2xl font-Ag hover:bg-lime-50">
               More
             </button>
@@ -51,7 +51,7 @@ const Collection = () => {
               height={496}
               className="m-3 p-3 object-cover"
             />
-         <h2 className="text-center text-2xl text-black font-extralight p-2 m-2">Winter</h2>
+         <h2 className="text-center text-2xl text-black font-semibold p-2 m-2">Winter</h2>
             <button className="bg-slate-100 w-20 p-1 rounded-md m-3 text-2xl font-Ag hover:bg-lime-50">
               More
             </button>
