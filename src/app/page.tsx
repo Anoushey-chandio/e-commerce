@@ -43,7 +43,7 @@ const Hero = () => {
             <h1 className="font-semibold text-3xl mb-2">미지우 </h1>
             <div className="border-t border-gray-600 w-full my-4"></div>
 
-              <p className="text-xs font-extralight text-gray-600 mb-4 ml-2"><h3>make your everyday look prettier with MEJIWOO Korean Made</h3></p>
+              <p className="text-xs font-extralight text-gray-900 mb-4 ml-2"><h3>make your everyday look prettier with MEJIWOO Korean Made</h3></p>
               
             </div>
 
