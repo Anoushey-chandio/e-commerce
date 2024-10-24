@@ -10,7 +10,7 @@ import Signup from './signup/page';
 const Hero = () => {
   return (
     <>
-      <section>
+      <section className='mt-16' >
      
 
         <div className="container mx-auto p-4 bg-lime-50">
