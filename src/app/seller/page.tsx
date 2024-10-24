@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 const BestSeller = () => {
   return (
-    <section>
+    <section  className='mt-32' >
       {/* Section Title */}
       <div className="flex justify-center m-4 p-4">
         <h1 className="text-black font-semibold text-center text-3xl">
