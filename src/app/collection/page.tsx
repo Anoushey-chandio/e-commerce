@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 const Collection = () => {
   return (
-    <section>
+    <section className='mt-28'>
       <div className="flex justify-center m-4 p-4">
         <h1 className="text-black font-semibold text-center font-Ag text-3xl">
           Season Collections
